@@ -40,6 +40,6 @@ This project simulates a basic electrical and mechanical component shop where us
 4. Click **"Calculate Total"**.
 5. Review the **order summary** and click **"Share on WhatsApp"** to send it.
 
-> ⚠️ *Make sure to add your WhatsApp number in the script section of `index.html`:*
+
 
 
